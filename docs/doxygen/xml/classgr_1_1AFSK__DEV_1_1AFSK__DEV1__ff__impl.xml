@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl" kind="class" language="C++" prot="public">
+    <compoundname>gr::AFSK_DEV::AFSK_DEV1_ff_impl</compoundname>
+    <basecompoundref refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff" prot="public" virt="non-virtual">gr::AFSK_DEV::AFSK_DEV1_ff</basecompoundref>
+    <includes refid="AFSK__DEV1__ff__impl_8h" local="no">AFSK_DEV1_ff_impl.h</includes>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1ae3b8affc0fcf4f6664f21584de509705" prot="private" static="no" mutable="no">
+        <type>float</type>
+        <definition>float gr::AFSK_DEV::AFSK_DEV1_ff_impl::d_level</definition>
+        <argsstring></argsstring>
+        <name>d_level</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" line="32" column="1" bodyfile="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1af58c1860551782306f4e4c4f37165094" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>gr::AFSK_DEV::AFSK_DEV1_ff_impl::AFSK_DEV1_ff_impl</definition>
+        <argsstring>(float level)</argsstring>
+        <name>AFSK_DEV1_ff_impl</name>
+        <param>
+          <type>float</type>
+          <declname>level</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" line="34" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1a55bc556fd65b51006bb760688352e59b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>gr::AFSK_DEV::AFSK_DEV1_ff_impl::~AFSK_DEV1_ff_impl</definition>
+        <argsstring>()</argsstring>
+        <name>~AFSK_DEV1_ff_impl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" line="35" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1af78255809099af8e4261438b6faaabfb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int gr::AFSK_DEV::AFSK_DEV1_ff_impl::work</definition>
+        <argsstring>(int noutput_items, gr_vector_const_void_star &amp;input_items, gr_vector_void_star &amp;output_items)</argsstring>
+        <name>work</name>
+        <param>
+          <type>int</type>
+          <declname>noutput_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_const_void_star &amp;</type>
+          <declname>input_items</declname>
+        </param>
+        <param>
+          <type>gr_vector_void_star &amp;</type>
+          <declname>output_items</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" line="38" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1ab526c2d166893ee4d2e44e69ac14933a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void gr::AFSK_DEV::AFSK_DEV1_ff_impl::set_level</definition>
+        <argsstring>(float level)</argsstring>
+        <name>set_level</name>
+        <param>
+          <type>float</type>
+          <declname>level</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" line="42" column="1" bodyfile="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" bodystart="42" bodyend="42"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="6">
+        <label>gr::AFSK_DEV::AFSK_DEV1_ff</label>
+        <link refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>gr::sync_block</label>
+      </node>
+      <node id="5">
+        <label>gr::AFSK_DEV::AFSK_DEV1_ff_impl</label>
+        <link refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="9">
+        <label>gr::AFSK_DEV::AFSK_DEV1_ff</label>
+        <link refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff"/>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>gr::sync_block</label>
+      </node>
+      <node id="8">
+        <label>gr::AFSK_DEV::AFSK_DEV1_ff_impl</label>
+        <link refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl"/>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" line="30" column="1" bodyfile="/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h" bodystart="29" bodyend="43"/>
+    <listofallmembers>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1af58c1860551782306f4e4c4f37165094" prot="public" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>AFSK_DEV1_ff_impl</name></member>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1ae3b8affc0fcf4f6664f21584de509705" prot="private" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>d_level</name></member>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff_1ab946891a11231c2f9260affff7244cc3" prot="public" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>make</name></member>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1ab526c2d166893ee4d2e44e69ac14933a" prot="public" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>set_level</name></member>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff_1a6be431534412c1ed9af89dfb01d5e5ca" prot="public" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>sptr</name></member>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1af78255809099af8e4261438b6faaabfb" prot="public" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>work</name></member>
+      <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff__impl_1a55bc556fd65b51006bb760688352e59b" prot="public" virt="non-virtual"><scope>gr::AFSK_DEV::AFSK_DEV1_ff_impl</scope><name>~AFSK_DEV1_ff_impl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

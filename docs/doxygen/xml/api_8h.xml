@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="api_8h" kind="file" language="C++">
+    <compoundname>api.h</compoundname>
+    <includes local="no">gnuradio/attributes.h</includes>
+    <includedby refid="AFSK__DEV1__ff_8h" local="no">AFSK_DEV1_ff.h</includedby>
+    <incdepgraph>
+      <node id="12">
+        <label>api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+      <node id="13">
+        <label>gnuradio/attributes.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="14">
+        <label>api.h</label>
+        <link refid="api_8h"/>
+        <childnode refid="15" relation="include">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>AFSK_DEV1_ff_impl.h</label>
+        <link refid="AFSK__DEV1__ff__impl_8h"/>
+      </node>
+      <node id="15">
+        <label>AFSK_DEV1_ff.h</label>
+        <link refid="AFSK__DEV1__ff_8h"/>
+        <childnode refid="16" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+      <sectiondef kind="define">
+      <memberdef kind="define" id="api_8h_1a5d195f6d19454bce63088c74a8023d12" prot="public" static="no">
+        <name>AFSK_DEV_API</name>
+        <initializer>__GR_ATTR_IMPORT</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/nick/Documents/gr-AFSK_DEV/include/AFSK_DEV/api.h" line="30" column="12" bodyfile="/home/nick/Documents/gr-AFSK_DEV/include/AFSK_DEV/api.h" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/nick/Documents/gr-AFSK_DEV/include/AFSK_DEV/api.h"/>
+  </compounddef>
+</doxygen>

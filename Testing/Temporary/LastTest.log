@@ -1,0 +1,50 @@
+Start testing: May 06 11:51 ADT
+----------------------------------------------------------
+1/2 Testing: test_AFSK_DEV
+1/2 Test: test_AFSK_DEV
+Command: "/bin/sh" "/home/nick/Documents/gr-AFSK_DEV/lib/test_AFSK_DEV_test.sh"
+Directory: /home/nick/Documents/gr-AFSK_DEV/lib
+"test_AFSK_DEV" start time: May 06 11:51 ADT
+Output:
+----------------------------------------------------------
+.
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_AFSK_DEV" end time: May 06 11:51 ADT
+"test_AFSK_DEV" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: qa_AFSK_DEV1_ff
+2/2 Test: qa_AFSK_DEV1_ff
+Command: "/bin/sh" "/home/nick/Documents/gr-AFSK_DEV/python/qa_AFSK_DEV1_ff_test.sh"
+Directory: /home/nick/Documents/gr-AFSK_DEV/python
+"qa_AFSK_DEV1_ff" start time: May 06 11:51 ADT
+Output:
+----------------------------------------------------------
+E
+======================================================================
+ERROR: test_001_t (__main__.qa_AFSK_DEV1_ff)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/nick/Documents/gr-AFSK_DEV/python/qa_AFSK_DEV1_ff.py", line 41, in test_001_t
+    testblock = AFSK_DEV.AFSK_DEV1_ff(src_data)
+  File "/home/nick/Documents/gr-AFSK_DEV/swig/AFSK_DEV_swig.py", line 150, in make
+    return _AFSK_DEV_swig.AFSK_DEV1_ff_make(level)
+TypeError: in method 'AFSK_DEV1_ff_make', argument 1 of type 'float'
+
+----------------------------------------------------------------------
+Ran 1 test in 0.015s
+
+FAILED (errors=1)
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Failed.
+"qa_AFSK_DEV1_ff" end time: May 06 11:51 ADT
+"qa_AFSK_DEV1_ff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 11:51 ADT

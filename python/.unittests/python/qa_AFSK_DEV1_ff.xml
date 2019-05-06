@@ -1,0 +1,14 @@
+<testsuite errors="1" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.001">
+  <testcase classname="__main__.qa_AFSK_DEV1_ff" name="test_001_t" time="0.0007">
+    <error type="exceptions.TypeError">in method 'AFSK_DEV1_ff_make', argument 1 of type 'float'
+  File "/usr/lib/python2.7/unittest/case.py", line 329, in run
+    testMethod()
+  File "/home/nick/Documents/gr-AFSK_DEV/python/qa_AFSK_DEV1_ff.py", line 41, in test_001_t
+    testblock = AFSK_DEV.AFSK_DEV1_ff(src_data)
+  File "/home/nick/Documents/gr-AFSK_DEV/swig/AFSK_DEV_swig.py", line 150, in make
+    return _AFSK_DEV_swig.AFSK_DEV1_ff_make(level)
+    </error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

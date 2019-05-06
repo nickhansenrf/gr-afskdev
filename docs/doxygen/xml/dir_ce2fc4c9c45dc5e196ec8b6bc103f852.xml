@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dir_ce2fc4c9c45dc5e196ec8b6bc103f852" kind="dir">
+    <compoundname>AFSK_DEV</compoundname>
+    <innerfile refid="AFSK__DEV1__ff_8h">AFSK_DEV1_ff.h</innerfile>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/nick/Documents/gr-AFSK_DEV/include/AFSK_DEV/"/>
+  </compounddef>
+</doxygen>

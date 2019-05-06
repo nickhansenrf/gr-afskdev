@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="namespacegr" kind="namespace" language="C++">
+    <compoundname>gr</compoundname>
+    <innernamespace refid="namespacegr_1_1AFSK__DEV">gr::AFSK_DEV</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/nick/Documents/gr-AFSK_DEV/include/AFSK_DEV/AFSK_DEV1_ff.h" line="28" column="1"/>
+  </compounddef>
+</doxygen>

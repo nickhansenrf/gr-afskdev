@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.cc
+config.h
+/home/nick/Documents/gr-AFSK_DEV/lib/config.h
+gnuradio/io_signature.h
+-
+AFSK_DEV1_ff_impl.h
+/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h
+
+/home/nick/Documents/gr-AFSK_DEV/lib/AFSK_DEV1_ff_impl.h
+AFSK_DEV/AFSK_DEV1_ff.h
+-
+
+include/AFSK_DEV/AFSK_DEV1_ff.h
+AFSK_DEV/api.h
+-
+gnuradio/sync_block.h
+-
+
+include/AFSK_DEV/api.h
+gnuradio/attributes.h
+-
+

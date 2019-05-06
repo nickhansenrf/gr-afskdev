@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
+  <compound refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff" kind="class"><name>gr::AFSK_DEV::AFSK_DEV1_ff</name>
+    <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff_1a6be431534412c1ed9af89dfb01d5e5ca" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1AFSK__DEV_1_1AFSK__DEV1__ff_1ab946891a11231c2f9260affff7244cc3" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1AFSK__DEV" kind="namespace"><name>gr::AFSK_DEV</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="AFSK__DEV1__ff_8h" kind="file"><name>AFSK_DEV1_ff.h</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1a5d195f6d19454bce63088c74a8023d12" kind="define"><name>AFSK_DEV_API</name></member>
+  </compound>
+  <compound refid="dir_ce2fc4c9c45dc5e196ec8b6bc103f852" kind="dir"><name>AFSK_DEV</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+</doxygenindex>
